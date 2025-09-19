@@ -1,8 +1,8 @@
 # Hi there, I'm Sheharyar Khalid! 👋
 
-🎯 **Full Stack Developer** | 🚀 **Building Scalable Web Solutions** | 📍 **Based in Pakistan**
+🎯 **AI ENGINEER & Full Stack Developer** | 🚀 **Building Scalable Web Solutions** | 📍 **Based in Pakistan**
 
-I'm a passionate software engineer with expertise in developing robust, scalable web applications using modern technologies. My journey in programming started with C++ and data structures, and has evolved into creating full-stack solutions with React, Node.js, and cloud technologies.
+For over 3 years, I've believed that great software should work at scale without sacrificing simplicity. I focus on building robust, AI-enhanced applications that feel intuitive to use and powerful behind the scenes.
 
 ## 🔥 What I'm Up To
 
