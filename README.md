@@ -85,7 +85,7 @@ Leveraging advanced AI tools like **Claude Opus**, **Gemini 2.5 Pro**, and **Cur
 
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sheharyar-khalid)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sheharyarkhalid)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sheharyarkhalid154@gmail.com)
 
 ---
