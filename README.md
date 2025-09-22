@@ -13,7 +13,7 @@ For over 3 years, I've believed that great software should work at scale without
 
 ## 🛠️ Tech Stack
 
-### 🤖 AI-Augmented Development
+### 🤖 AI-Tools
 ![Cursor](https://img.shields.io/badge/Cursor%20AI-000000?style=for-the-badge)
 ![Windsurf](https://img.shields.io/badge/Windsurf-007AFF?style=for-the-badge)
 ![Claude](https://img.shields.io/badge/Claude%20Opus-9F37B2?style=for-the-badge)
