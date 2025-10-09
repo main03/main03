@@ -6,7 +6,7 @@ For over 3 years, I've believed that great software should work at scale without
 
 ## 🔥 What I'm Up To
 
-- 💼 Currently working on **enterprise-grade full stack applications**
+- 💼 Currently working as **Full Stack AI Engineer** at [Usermaven](https://usermaven.com/)
 - 🌱 Deep diving into **cloud architecture and microservices patterns**
 - 🚀 Building **resilient, scalable web applications** with modern best practices
 - 🤝 Open to collaborating on **innovative projects** that solve real-world problems
