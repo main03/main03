@@ -77,14 +77,16 @@ Leveraging advanced AI tools like **Claude Opus**, **Gemini 2.5 Pro**, and **Cur
 ## 📈 GitHub Stats
 
 
+<h2 align="center">⚡ GitHub Stats & Languages</h2>
+
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=sheharyar-khalid&show_icons=true&theme=radical&count_private=true&include_all_commits=true"
+    src="https://github-readme-stats.vercel.app/api?username=sheharyar-khalid&show_icons=true&theme=radical&count_private=true&include_all_commits=true&custom_title=Sheharyar%20Khalid's%20GitHub%20Stats"
     alt="Sheharyar's GitHub Stats" 
     height="180"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheharyar-khalid&layout=compact&theme=radical&langs_count=8&hide=jupyter%20notebook,ruby,html,css,shell,scss,tex"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheharyar-khalid&layout=compact&theme=radical&langs_count=2&custom_title=Languages%20(Typescript%2060%%20%7C%20Python%2040%)&hide=jupyter%20notebook,ruby,html,css,shell,scss,tex"
     alt="Top Languages"
     height="180"
   />
@@ -93,8 +95,15 @@ Leveraging advanced AI tools like **Claude Opus**, **Gemini 2.5 Pro**, and **Cur
 <h3 align="center">💻 Tech Stack Focus</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,python,cursor" />
+  <img src="https://skillicons.dev/icons?i=typescript,python,javascript,react,nodejs,cursor" />
 </p>
+
+<h3 align="center">📈 Contributions</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Contributions%20this%20year-500-blueviolet?style=for-the-badge&logo=github" />
+</p>
+
 ## 📫 Let's Connect!
 
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
