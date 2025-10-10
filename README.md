@@ -76,6 +76,7 @@ Leveraging advanced AI tools like **Claude Opus**, **Gemini 2.5 Pro**, and **Cur
 
 ## 📈 GitHub Stats
 
+
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=sheharyar-khalid&show_icons=true&theme=radical&count_private=true&include_all_commits=true"
@@ -83,10 +84,16 @@ Leveraging advanced AI tools like **Claude Opus**, **Gemini 2.5 Pro**, and **Cur
     height="180"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheharyar-khalid&layout=compact&theme=radical&langs_count=8&hide=html,css,shell"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheharyar-khalid&layout=compact&theme=radical&langs_count=8&hide=jupyter%20notebook,ruby,html,css,shell,scss,tex"
     alt="Top Languages"
     height="180"
   />
+</p>
+
+<h3 align="center">💻 Tech Stack Focus</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,python,cursor" />
 </p>
 ## 📫 Let's Connect!
 
