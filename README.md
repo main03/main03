@@ -86,7 +86,11 @@ Leveraging advanced AI tools like **Claude Opus**, **Gemini 2.5 Pro**, and **Cur
   />
 
 </p>
+<h3 align="center">💻 Tech Stack Focus</h3>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,python,cursor" />
+</p>
 ## 📫 Let's Connect!
 
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
