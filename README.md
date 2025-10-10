@@ -77,10 +77,17 @@ Leveraging advanced AI tools like **Claude Opus**, **Gemini 2.5 Pro**, and **Cur
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sheharyar-khalid&show_icons=true&theme=radical" alt="Sheharyar's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheharyar-khalid&layout=compact&theme=radical" alt="Top Languages" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=sheharyar-khalid&show_icons=true&theme=radical&count_private=true&include_all_commits=true"
+    alt="Sheharyar's GitHub Stats" 
+    height="180"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheharyar-khalid&layout=compact&theme=radical&langs_count=8&hide=html,css,shell"
+    alt="Top Languages"
+    height="180"
+  />
 </p>
-
 ## 📫 Let's Connect!
 
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
