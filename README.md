@@ -16,6 +16,7 @@ For over 3.5+ years, I've believed that great software should work at scale with
 ### 🤖 AI-Tools
 ![Cursor](https://img.shields.io/badge/Cursor%20AI-000000?style=for-the-badge)
 ![Windsurf](https://img.shields.io/badge/Windsurf-007AFF?style=for-the-badge)
+![Codex](https://img.shields.io/badge/GPTCodex-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude%20Opus-9F37B2?style=for-the-badge)
 ![Claude](https://img.shields.io/badge/ClaudeSonnet-7A4F9E?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini%203-FFCD00?style=for-the-badge&logo=google&logoColor=black)
