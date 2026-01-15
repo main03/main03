@@ -74,18 +74,9 @@ Leveraging advanced AI tools like **Claude Opus**, **Gemini 2.5 Pro**, and **Cur
 ### Design & Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## 📈 GitHub Stats
-
 
 <h2 align="center">⚡ GitHub Stats & Languages</h2>
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=sheharyar-khalid&show_icons=true&theme=radical&count_private=true&include_all_commits=true"
-    alt="Sheharyar's GitHub Stats" 
-    height="180"
-  />
 
-</p>
 <h3 align="center">💻 Tech Stack Focus</h3>
 
 <p align="center">
