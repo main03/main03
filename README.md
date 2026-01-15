@@ -17,7 +17,7 @@ For over 3.5+ years, I've believed that great software should work at scale with
 ![Cursor](https://img.shields.io/badge/Cursor%20AI-000000?style=for-the-badge)
 ![Windsurf](https://img.shields.io/badge/Windsurf-007AFF?style=for-the-badge)
 ![Claude](https://img.shields.io/badge/Claude%20Opus-9F37B2?style=for-the-badge)
-![Gemini](https://img.shields.io/badge/Gemini%202.5-FFCD00?style=for-the-badge&logo=google&logoColor=black)
+![Gemini](https://img.shields.io/badge/Gemini%203-FFCD00?style=for-the-badge&logo=google&logoColor=black)
 
 
 Leveraging advanced AI tools like **Claude Opus**, **Gemini 2.5 Pro**, and **Cursor AI** for prototyping, code review, and architecting complex systems to enhance productivity and code quality.
