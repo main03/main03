@@ -2,7 +2,7 @@
 
 🎯 **AI Engineer & Full Stack Developer** | 🚀 **Building Scalable Web Apps & AI Powered Products** | 📍 **Based in Pakistan**
 
-For over 3.9+ years, I've believed that great software should work at scale without sacrificing simplicity. I focus on building robust, AI-enhanced applications that feel intuitive to use and powerful behind the scenes.
+For over 4+ years, I've believed that great software should work at scale without sacrificing simplicity. I focus on building robust, AI-enhanced applications that feel intuitive to use and powerful behind the scenes.
 
 ## 🔥 What I'm Up To
 
