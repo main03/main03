@@ -24,9 +24,9 @@ I'm a **Full Stack AI Engineer** who delivers results at scale. With **4+ years*
 I work across the **Full Stack**: designing and optimizing backend systems, building clean frontend experiences, and integrating AI workflows into production-ready products. I care about writing **maintainable code**, solving the **right problems**, and understanding the *"why"* behind the work—not just the task.
 
 ### 🏆 Key Impact
-- **70% faster queries** — Reduced query latency from 4.2s to 1.3s on a platform handling **110M+ monthly events**
-- **60% business growth** & **70% reduction** in onboarding errors across a vehicle marketplace
-- **30+ hours saved/month** in manual content production through AI pipelines
+- ⚡ **70% faster queries** — Reduced query latency from 4.2s to 1.3s on a platform handling **110M+ monthly events**
+- 📈 **60% business growth** & **70% reduction** in onboarding errors across a vehicle marketplace
+- 🤖 **30+ hours saved/month** in manual content production through AI pipelines
 
 ### 🎖️ Recognitions
 - 🏅 **Employee of the Quarter** — Tekrowe Digital, Q4 2024 (among 50+ employees)
@@ -127,16 +127,99 @@ I'm always open to contributing to meaningful open-source projects and collabora
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=main03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=main03&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=6C63FF" alt="GitHub Streak" width="48%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=main03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=main03&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=6C63FF" alt="GitHub Streak" width="49%" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=main03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF" alt="Top Languages" width="45%" />
-</p>
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=main03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&langs_count=8&hide=html,css" alt="Top Languages" width="49%" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=main03&theme=tokyonight" alt="Repos per language" width="49%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=main03&theme=tokyonight" alt="Profile Details" width="98%" />
+</div>
+
+### 🎯 Tech Stack Breakdown
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" />
+        <br>JavaScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="48" height="48" />
+        <br>TypeScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" />
+        <br>Python
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="NestJS" width="48" height="48" />
+        <br>NestJS
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="48" height="48" />
+        <br>Node.js
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" />
+        <br>React
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="48" height="48" />
+        <br>REST API
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="48" height="48" />
+        <br>GraphQL
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="48" height="48" />
+        <br>MySQL
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="48" height="48" />
+        <br>AWS
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="48" height="48" />
+        <br>Docker
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="48" height="48" />
+        <br>GitHub
+      </td>
+    </tr>
+  </table>
+</div>
+
+### 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=main03&theme=tokyo-night&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&hide_border=true&area=true&area_color=6C63FF" alt="Contribution Graph" width="98%" />
+</div>
+
+<br/>
+
+### 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=main03&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</div>
 
 ---
 
