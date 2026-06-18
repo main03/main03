@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full Stack AI Engineer | Building Scalable, AI-Powered Products</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=6C63FF&center=true&vCenter=true&width=600&lines=Full+Stack+AI+Engineer;4%2B+Years+of+Experience;Building+at+Scale+with+AI;Passionate+about+Clean+Code+%26+UX" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=6C63FF&center=true&vCenter=true&width=600&lines=Full+Stack+AI+Engineer;4%2B+Years+of+Experience;Turning+Complexity+into+Simplicity;Solving+Problems+at+Scale;Shipping+SaaS+for+Global+Clients" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 
 ## 💡 About Me
 
-I'm a **Full Stack AI Engineer** passionate about building products that solve real problems at scale. With **4+ years** of experience shipping SaaS products for clients across **Europe, the Gulf, and the US**, I've contributed to real-time analytics platforms processing **83.8M weekly events** and built AI pipelines that cut video production time from **8 hours to 90 minutes**.
+I'm a **Full Stack AI Engineer** passionate about building products that solve real problems at scale. With **4+ years** of experience, I've contributed to real-time analytics platforms processing **83.8M weekly events** and built AI pipelines that cut video production time from **8 hours to 90 minutes**.
 
 I work across the **Full Stack**: designing and optimizing backend systems, crafting clean frontend experiences, and integrating AI workflows into production-ready products. I believe in writing **maintainable code**, solving the **right problems**, and understanding the *"why"* behind every decision.
 
@@ -31,6 +31,7 @@ I work across the **Full Stack**: designing and optimizing backend systems, craf
 - 🎓 **Chancellor's Honour Award & Scholarship Holder** - SZABIST (Top 5%, 3.53 CGPA)
 - 👨‍💼 **2x Tech Ambassador** - Represented at NUST & SZABIST (200+ students, 50+ interviews)
 - 📜 **Certifications** - HackerRank (JavaScript, Node.js, React, Software Engineering), SoloLearn (C++, HTML, CSS)
+- 🌍 **Global Client Experience** - Shipped SaaS products for clients across Europe, the Gulf, and the US
 
 ---
 
@@ -40,7 +41,11 @@ I believe in giving back to the community! Recently, I had the privilege of cont
 
 > 🚀 **PR Merged**: Added proper validation layers to handle corrupted persisted column state from localStorage, preventing app crashes and improving stability for thousands of developers using the library.
 
-[🔗 View PR Details](https://lnkd.in/dnwkWMRq)
+[🔗 View Issue Details](https://github.com/icflorescu/mantine-datatable/issues/818)
+
+**🎉 The fix has been officially merged and released in v9.3.0!**
+
+> *"Thanks again for raising and fixing, @main03. Landed in v9.3.0."* - **icflorescu** (Owner)
 
 I'm always open to contributing to meaningful open-source projects and collaborating with the community.
 
@@ -48,13 +53,13 @@ I'm always open to contributing to meaningful open-source projects and collabora
 
 ## 🛠️ Tech Stack
 
-### 🤖 AI Tools & Assistants
+### 🤖 AI Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Cursor%20AI-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Windsurf-007AFF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Claude%20Opus%204-9F37B2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Claude%20Opus%204.8-9F37B2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Claude%20Sonnet-7A4F9E?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini%203%20Flash-FFCD00?style=for-the-badge&logo=google&logoColor=black" />
+  <img src="https://img.shields.io/badge/Gemini%203.5%20Flash-FFCD00?style=for-the-badge&logo=google&logoColor=black" />
   <img src="https://img.shields.io/badge/GPT%20Codex%205.5-412991?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
@@ -187,8 +192,8 @@ I'm always open to contributing to meaningful open-source projects and collabora
         <br><sub>Docker</sub>
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="48" height="48" />
-        <br><sub>GitHub</sub>
+        <img src="https://techstack-generator.vercel.app/fastapi-icon.svg" alt="FastAPI" width="48" height="48" />
+        <br><sub>FastAPI</sub>
       </td>
     </tr>
   </table>
