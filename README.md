@@ -137,7 +137,7 @@ I'm always open to contributing to meaningful open-source projects and collabora
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=main03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&langs_count=8&hide=html,css" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=main03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&langs_count=8" alt="Top Languages" width="49%" />
   
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=main03&theme=tokyonight" alt="Repos per language" width="49%" />
 </div>
@@ -170,7 +170,7 @@ I'm always open to contributing to meaningful open-source projects and collabora
         <br>NestJS
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="48" height="48" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" />
         <br>Node.js
       </td>
       <td align="center" width="96">
@@ -211,6 +211,27 @@ I'm always open to contributing to meaningful open-source projects and collabora
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=main03&theme=tokyo-night&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&hide_border=true&area=true&area_color=6C63FF" alt="Contribution Graph" width="98%" />
+</div>
+
+### ⚡ Quick Stats
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🚀%20Total%20Contributions-463-6C63FF?style=for-the-badge" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/📁%20Public%20Repos-7-6C63FF?style=for-the-badge" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/⏰%20GitHub%20Age-3%20Years-6C63FF?style=for-the-badge" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/📍%20Location-Pakistan-6C63FF?style=for-the-badge" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
