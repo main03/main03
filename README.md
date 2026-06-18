@@ -127,81 +127,61 @@ I'm always open to contributing to meaningful open-source projects and collabora
 
 ---
 
-## 📊 GitHub Stats & Activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=main03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=main03&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=6C63FF" alt="GitHub Streak" width="49%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=main03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&langs_count=8" alt="Top Languages" width="49%" />
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=main03&theme=tokyonight" alt="Repos per language" width="49%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=main03&theme=tokyonight" alt="Profile Details" width="98%" />
-</div>
-
-### 🎯 Tech Stack Breakdown
+### 🎯 Tech Stack Focus
 
 <div align="center">
   <table>
     <tr>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" />
-        <br>JavaScript
+        <br><sub>JavaScript</sub>
       </td>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="48" height="48" />
-        <br>TypeScript
+        <br><sub>TypeScript</sub>
       </td>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" />
-        <br>Python
+        <br><sub>Python</sub>
       </td>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="NestJS" width="48" height="48" />
-        <br>NestJS
+        <br><sub>NestJS</sub>
       </td>
       <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" />
-        <br>Node.js
+        <br><sub>Node.js</sub>
       </td>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" />
-        <br>React
+        <br><sub>React</sub>
       </td>
     </tr>
     <tr>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="48" height="48" />
-        <br>REST API
+        <br><sub>REST API</sub>
       </td>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="48" height="48" />
-        <br>GraphQL
+        <br><sub>GraphQL</sub>
       </td>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="48" height="48" />
-        <br>MySQL
+        <br><sub>MySQL</sub>
       </td>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="48" height="48" />
-        <br>AWS
+        <br><sub>AWS</sub>
       </td>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="48" height="48" />
-        <br>Docker
+        <br><sub>Docker</sub>
       </td>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="48" height="48" />
-        <br>GitHub
+        <br><sub>GitHub</sub>
       </td>
     </tr>
   </table>
@@ -213,34 +193,12 @@ I'm always open to contributing to meaningful open-source projects and collabora
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=main03&theme=tokyo-night&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&hide_border=true&area=true&area_color=6C63FF" alt="Contribution Graph" width="98%" />
 </div>
 
-### ⚡ Quick Stats
+<br/>
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/🚀%20Total%20Contributions-463-6C63FF?style=for-the-badge" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/📁%20Public%20Repos-7-6C63FF?style=for-the-badge" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/⏰%20GitHub%20Age-3%20Years-6C63FF?style=for-the-badge" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/📍%20Location-Pakistan-6C63FF?style=for-the-badge" />
-      </td>
-    </tr>
-  </table>
-</div>
+
 
 <br/>
 
-### 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=main03&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
 
 ---
 
@@ -248,7 +206,7 @@ I'm always open to contributing to meaningful open-source projects and collabora
 
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
 
-<p align="center">
+<div align="center">
   <a href="https://linkedin.com/in/sheharyarkhalid">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -258,20 +216,20 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
   <a href="https://github.com/main03">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
   <img src="https://img.shields.io/badge/💡%20Building%20the%20Future%20with%20AI-6C63FF?style=for-the-badge" />
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <i>"Great software should work at scale without sacrificing simplicity."</i>
-</p>
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
   ❤️ From <a href="https://github.com/main03">Sheharyar Khalid</a>
-</p>
+</div>
