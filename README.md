@@ -13,22 +13,24 @@
   <a href="mailto:sheharyarkhalid154@gmail.com">
     <img src="https://img.shields.io/badge/-Email%20Me-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://code-with-sherry-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/-Portfolio-6C63FF?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
 ---
 
 ## 💡 About Me
 
-I'm a **Full Stack AI Engineer** who delivers results at scale. With **4+ years** of experience, I've contributed to real-time analytics platforms processing **83.8M weekly events** and built AI pipelines that cut video production time from **8 hours to 90 minutes**.
+I'm a **Full Stack AI Engineer** passionate about building products that solve real problems at scale. With **4+ years** of experience shipping SaaS products for clients across **Europe, the Gulf, and the US**, I've contributed to real-time analytics platforms processing **83.8M weekly events** and built AI pipelines that cut video production time from **8 hours to 90 minutes**.
 
-I work across the **Full Stack**: designing and optimizing backend systems, building clean frontend experiences, and integrating AI workflows into production-ready products. I care about writing **maintainable code**, solving the **right problems**, and understanding the *"why"* behind the work—not just the task.
-
+I work across the **Full Stack**: designing and optimizing backend systems, crafting clean frontend experiences, and integrating AI workflows into production-ready products. I believe in writing **maintainable code**, solving the **right problems**, and understanding the *"why"* behind every decision.
 
 ### 🎖️ Recognitions
-- 🏅 **Employee of the Quarter** — Tekrowe Digital, Q4 2024 (among 50+ employees)
-- 🎓 **Chancellor's Honour Award & Scholarship Holder** — SZABIST (Top 5%, 3.53 CGPA)
-- 👨‍💼 **2x Tech Ambassador** — Represented at NUST & SZABIST (200+ students, 50+ interviews)
-- 📜 **Certifications** — HackerRank (JavaScript, Node.js, React, Software Engineering), SoloLearn (C++, HTML, CSS)
+- 🏅 **Employee of the Quarter** - Tekrowe Digital, Q4 2024 (among 50+ employees)
+- 🎓 **Chancellor's Honour Award & Scholarship Holder** - SZABIST (Top 5%, 3.53 CGPA)
+- 👨‍💼 **2x Tech Ambassador** - Represented at NUST & SZABIST (200+ students, 50+ interviews)
+- 📜 **Certifications** - HackerRank (JavaScript, Node.js, React, Software Engineering), SoloLearn (C++, HTML, CSS)
 
 ---
 
@@ -50,10 +52,10 @@ I'm always open to contributing to meaningful open-source projects and collabora
 <p align="left">
   <img src="https://img.shields.io/badge/Cursor%20AI-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Windsurf-007AFF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Claude%20Opus-9F37B2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Claude%20Opus%204-9F37B2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Claude%20Sonnet-7A4F9E?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini%202.5%20Pro-FFCD00?style=for-the-badge&logo=google&logoColor=black" />
-  <img src="https://img.shields.io/badge/GPT%20Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini%203%20Flash-FFCD00?style=for-the-badge&logo=google&logoColor=black" />
+  <img src="https://img.shields.io/badge/GPT%20Codex%205.5-412991?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 ### 💻 Languages
@@ -68,7 +70,8 @@ I'm always open to contributing to meaningful open-source projects and collabora
 <p align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Mantine-339AF0?style=for-the-badge" />
@@ -96,13 +99,22 @@ I'm always open to contributing to meaningful open-source projects and collabora
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
-### 🐳 DevOps & Cloud
+### ☁️ Cloud & DevOps
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+### 🔄 Message Queue & Monitoring
+<p align="left">
+  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flower-FF6600?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" />
 </p>
 
 ### 🧪 Testing
@@ -122,7 +134,6 @@ I'm always open to contributing to meaningful open-source projects and collabora
 </p>
 
 ---
-
 
 ### 🎯 Tech Stack Focus
 
@@ -189,13 +200,6 @@ I'm always open to contributing to meaningful open-source projects and collabora
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=main03&theme=tokyo-night&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&hide_border=true&area=true&area_color=6C63FF" alt="Contribution Graph" width="98%" />
 </div>
 
-<br/>
-
-
-
-<br/>
-
-
 ---
 
 ## 🤝 Let's Connect!
@@ -211,6 +215,9 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
   </a>
   <a href="https://github.com/main03">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://code-with-sherry-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </div>
 
