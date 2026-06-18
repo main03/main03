@@ -23,10 +23,6 @@ I'm a **Full Stack AI Engineer** who delivers results at scale. With **4+ years*
 
 I work across the **Full Stack**: designing and optimizing backend systems, building clean frontend experiences, and integrating AI workflows into production-ready products. I care about writing **maintainable code**, solving the **right problems**, and understanding the *"why"* behind the work—not just the task.
 
-### 🏆 Key Impact
-- ⚡ **70% faster queries** — Reduced query latency from 4.2s to 1.3s on a platform handling **110M+ monthly events**
-- 📈 **60% business growth** & **70% reduction** in onboarding errors across a vehicle marketplace
-- 🤖 **30+ hours saved/month** in manual content production through AI pipelines
 
 ### 🎖️ Recognitions
 - 🏅 **Employee of the Quarter** — Tekrowe Digital, Q4 2024 (among 50+ employees)
