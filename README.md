@@ -31,7 +31,7 @@ I work across the **Full Stack**: designing and optimizing backend systems, craf
 - 🎓 **Chancellor's Honour Award & Scholarship Holder** - SZABIST (Top 5%, 3.53 CGPA)
 - 👨‍💼 **2x Tech Ambassador** - Represented at NUST & SZABIST (200+ students, 50+ interviews)
 - 📜 **Certifications** - HackerRank (JavaScript, Node.js, React, Software Engineering), SoloLearn (C++, HTML, CSS)
-- 🌍 **Global Client Experience** - Shipped SaaS products for clients across Europe, the Gulf, and the US
+- 🌟 **Open Source Contributor** - Successfully contributed to Mantine DataTable with a stability fix that landed in v9.3.0
 
 ---
 
@@ -41,11 +41,30 @@ I believe in giving back to the community! Recently, I had the privilege of cont
 
 > 🚀 **PR Merged**: Added proper validation layers to handle corrupted persisted column state from localStorage, preventing app crashes and improving stability for thousands of developers using the library.
 
-[🔗 View Issue Details](https://github.com/icflorescu/mantine-datatable/issues/818)
+### 📦 Contribution Details
 
-**🎉 The fix has been officially merged and released in v9.3.0!**
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/📌%20Issue-818-6C63FF?style=for-the-badge" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/✅%20Status-Merged-00C853?style=for-the-badge" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/📦%20Version-v9.3.0-FF6B00?style=for-the-badge" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-> *"Thanks again for raising and fixing, @main03. Landed in v9.3.0."* - **icflorescu** (Owner)
+**🎉 The fix has been officially merged and released!**
+
+> *"Thanks again for raising and fixing, @main03. Landed in v9.3.0."* 
+> — **icflorescu** (Repository Owner)
+
+[🔗 View Issue & PR Details](https://github.com/icflorescu/mantine-datatable/issues/818)
 
 I'm always open to contributing to meaningful open-source projects and collaborating with the community.
 
@@ -192,7 +211,8 @@ I'm always open to contributing to meaningful open-source projects and collabora
         <br><sub>Docker</sub>
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/fastapi-icon.svg" alt="FastAPI" width="48" height="48" />
+        <!-- Using devicon for FastAPI since techstack-generator doesn't have it -->
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="48" height="48" />
         <br><sub>FastAPI</sub>
       </td>
     </tr>
