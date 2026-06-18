@@ -77,64 +77,51 @@ I'm always open to contributing to meaningful open-source projects and collabora
       <td align="center" width="33%">
         <img src="https://img.shields.io/badge/Anthropic-6C63FF?style=for-the-badge&logo=anthropic&logoColor=white" />
         <br><strong>Introduction to Model Context Protocol (MCP)</strong>
-        <br><sub>Issued Apr 2026</sub>
-        <br><sub>🔗 <a href="https://verify.skilljar.com/c/rjjuge7fzwde">Verify</a></sub>
-        <br><sub>Skills: Model Context Protocol (MCP), MCP (Multi Agent Protocol)</sub>
+        <br><sub>Apr 2026</sub>
       </td>
       <td align="center" width="33%">
         <img src="https://img.shields.io/badge/Anthropic-6C63FF?style=for-the-badge&logo=anthropic&logoColor=white" />
         <br><strong>Claude Code in Action</strong>
-        <br><sub>Issued Mar 2026</sub>
-        <br><sub>🔗 <a href="https://verify.skilljar.com/c/gifovw6dhxr3">Verify</a></sub>
-        <br><sub>Skills: Claude Skills</sub>
+        <br><sub>Mar 2026</sub>
       </td>
       <td align="center" width="33%">
         <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
         <br><strong>Certified Node.js Developer</strong>
-        <br><sub>Issued Dec 2025</sub>
-        <br><sub>🔗 <a href="https://www.hackerrank.com/certificates/iframe/9aca6fd12355">Verify</a></sub>
-        <br><sub>Skills: Node.js, Express.js</sub>
+        <br><sub>Dec 2025</sub>
       </td>
     </tr>
     <tr>
       <td align="center" width="33%">
         <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-        <br><strong>Frontend Developer (React) Certificate</strong>
-        <br><sub>Issued Oct 2025</sub>
-        <br><sub>🔗 <a href="https://www.hackerrank.com/certificates/iframe/1989491fe0cf">Verify</a></sub>
-        <br><sub>Skills: React.js</sub>
+        <br><strong>Frontend Developer (React)</strong>
+        <br><sub>Oct 2025</sub>
       </td>
       <td align="center" width="33%">
         <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
         <br><strong>Certified JavaScript Developer</strong>
-        <br><sub>Issued Jun 2025</sub>
-        <br><sub>Skills: Mocha (JavaScript Framework), ECMAScript</sub>
+        <br><sub>Jun 2025</sub>
       </td>
       <td align="center" width="33%">
         <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
         <br><strong>Certified Software Engineer</strong>
-        <br><sub>Issued Jun 2025</sub>
-        <br><sub>Skills: Software Development, Data Structures</sub>
+        <br><sub>Jun 2025</sub>
       </td>
     </tr>
     <tr>
       <td align="center" width="33%">
         <img src="https://img.shields.io/badge/Sololearn-00BFFF?style=for-the-badge&logo=sololearn&logoColor=white" />
         <br><strong>CSS Certification</strong>
-        <br><sub>Issued Aug 2020</sub>
-        <br><sub>Skills: CSS3, CSS5</sub>
+        <br><sub>Aug 2020</sub>
       </td>
       <td align="center" width="33%">
         <img src="https://img.shields.io/badge/Sololearn-00BFFF?style=for-the-badge&logo=sololearn&logoColor=white" />
         <br><strong>HTML Certification</strong>
-        <br><sub>Issued Jul 2020</sub>
-        <br><sub>Skills: HTML5</sub>
+        <br><sub>Jul 2020</sub>
       </td>
       <td align="center" width="33%">
         <img src="https://img.shields.io/badge/Sololearn-00BFFF?style=for-the-badge&logo=sololearn&logoColor=white" />
         <br><strong>C++ Certification</strong>
-        <br><sub>Issued Jul 2020</sub>
-        <br><sub>Skills: C++, C (Programming Language)</sub>
+        <br><sub>Jul 2020</sub>
       </td>
     </tr>
   </table>
