@@ -6,7 +6,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=main03&label=Profile%20Views&color=6C63FF&style=flat" alt="Profile views" />
   <a href="https://linkedin.com/in/sheharyarkhalid">
     <img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=flat&logo=linkedin" alt="LinkedIn" />
   </a>
