@@ -30,6 +30,7 @@ I work across the **Full Stack**: designing and optimizing backend systems, craf
 - 🎓 **Chancellor's Honour Award & Scholarship Holder** - SZABIST (Top 5%, 3.53 CGPA)
 - 👨‍💼 **2x Tech Ambassador** - Represented at NUST & SZABIST (200+ students, 50+ interviews)
 - 🌟 **Open Source Contributor** - Successfully contributed to Mantine DataTable with a stability fix that landed in v9.3.0
+- 📜 **Certified Developer** - Certified by Anthropic, HackerRank & Sololearn across AI, Node.js, React, JavaScript & Software Engineering
 
 ---
 
